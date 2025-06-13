@@ -2,6 +2,8 @@
 
 GuideByte is an AI-powered micro-guide generator designed specifically for gamers. It provides fast, actionable tips for bosses, quests, and builds in your favorite games.
 
+[Access the website here](https://guidebyte.streamlit.app/)
+
 ## Features
 
 - **Game-Specific Guidance**: Get tailored advice for any game you're playing
